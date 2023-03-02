@@ -1,0 +1,10 @@
+.card {
+    width: 900px;
+    height: 200px;
+    border-radius: 30px;
+    background: skyblue;
+    box-shadow: 15px 15px 30px rgb(6, 166, 247),
+                -15px -15px 30px rgb(6, 166, 247);
+   }
+   
+   
